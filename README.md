@@ -1,8 +1,9 @@
 # 中国版多因子模型的构建、检验与对比
+# Construction, Testing and Comparison of Multi-Factor Models in China
 
 本文对于刚从stata转Python的中国用户更加友好。
 
-主要参考文献：
+## 主要参考文献：
 
 1 Liu, J., Stambaugh, R. F., & Yuan, Y. (2019). Size and value in China.Journal of Financial Economics,134(1), 48-69.
 
