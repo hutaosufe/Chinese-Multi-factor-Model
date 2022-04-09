@@ -1,7 +1,7 @@
 # 中国版多因子模型的构建、检验与对比
 主要参考文献：
-
-
+1 Liu, J., Stambaugh, R. F., & Yuan, Y. (2019). Size and value in China.Journal of Financial Economics,134(1), 48-69.
+2 Liu, Y., C. Shi, and X. Lian (2019). Refined book-to-market ratio and the cross-section of stock returns in China. Working paper.
 
 
 ## Features
