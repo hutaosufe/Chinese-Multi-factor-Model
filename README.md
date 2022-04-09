@@ -10,11 +10,11 @@
 2 Liu, Y., C. Shi, and X. Lian (2019). Refined book-to-market ratio and the cross-section of stock returns in China. Working paper.
 
 ## 更新
-1 更新了基于tushar接口的计算方法
+1 更新了基于tushar接口的计算方法(2022.04.09)
 
-2 更新了基于NeweyWest的计算方法
+2 更新了基于NeweyWest的计算方法(2022.04.09)
 
-3 更新了GRS Test方法
+3 更新了GRS Test方法(2022.04.09)
 
 ## 说明
 无论是Github还是CSDN上关于中国版多因子模型的相关讨论较少。
