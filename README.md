@@ -1,11 +1,8 @@
-# auto h-encore
-A C# (.NET) application to automate the PC process of getting h-encore running on your PS Vita system!
+# 中国版多因子模型的构建、检验与对比
+主要参考文献：
 
-This application is **WINDOWS ONLY**.
 
-**This application will not be updated in the future. Please use [finalhe by soarqin](https://github.com/soarqin/finalhe), which also supports OSX and Linux.**
 
-![screenshot](https://puu.sh/AT1YE/8d33549df5.png "screenshot")
 
 ## Features
 This application does everything required for h-encore related to your PC. This means:
@@ -44,23 +41,3 @@ If you know C and are willing to help out, it would be appreciated if you could 
 Other changes are also welcome through pull requests.
 
 ## Thanks
-
-### Translators
- - yexun1995 for the Simplified Chinese translation.
- - RY0M43CH1Z3N for the Spanish translation.
- - M2l2koPOWER, [portablegaming](https://vk.com/portablegaming) and pvc1 for the Russian translation.
- - theheroGAC for the Italian translation.
- - barbabarros for the Brazilian Portuguese translation.
- - wababc and Retsukun for the French translation.
- - barooney and fyr77 for the German translation.
- - Hack-Usagi for the Japanese translation.
- - Localizati0n for the Turkish translation.
- - TheOneEyedGrimReaper for the Hungarian translation.
- 
-### Scene
- - fyr77 for giving me a good reference for getting QCMA automation working.
- - thefl0w for [h-encore](https://github.com/TheOfficialFloW/h-encore "h-encore") and all of their other contributions to the Vita scene.
- - yifanlu for [psvimgtools](https://github.com/yifanlu/psvimgtools/ "psvimgtools") and all of their other contributions to the Vita scene.
- - codestation for [QCMA](https://github.com/codestation/qcma "QCMA").
- - mmozeiko for [pkg2zip](https://github.com/mmozeiko/pkg2zip "pkg2zip").
- - Everyone else that positively contributes to the Vita scene.
