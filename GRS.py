@@ -2,11 +2,6 @@ import numpy as np
 from numpy.linalg import inv
 
 def GRS(alpha, resids, mu):
-    # GRS test statistic
-    # N assets, L factors, and T time points
-    # alpha is a Nx1 vector of intercepts of the time-series regressions,
-    # resids is a TxN matrix of residuals,
-    # mu is a TxL matrix of factor returns
     T, N = resids.shape
     L = mu.shape[1]
     mu_mean = np.nanmean(mu, axis=0)
