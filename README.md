@@ -1,7 +1,9 @@
 # 中国版多因子模型的构建、检验与对比
 # Construction, Testing and Comparison of Multi-Factor Models in China
 
-本文对于刚从stata转Python的中国用户更加友好。
+本文适合于初学者了解多因子模型。
+
+本文对于刚从stata转Python的科研人员更加友好。
 
 ## 主要参考文献：
 
